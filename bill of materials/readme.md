@@ -13,5 +13,5 @@
 |         8|Batterijhouder                |Batterijhouder met 2 pinnen                 |  nieuw   |2.32           |1     |2.32     |
 |         9|Soldeerbord                   |PCB Board Prototype Kit                     |  nieuw   |0.32           |1     |0.32     |
 |        10|Kabels                        |Jumper wires, male to male en male to female|  recup   |1.40           |1     |1.40     |
-|    Totaal|                              |                                            |          |               |      |         |
+|    Totaal|                              |                                            |          |               |      |45.4     |
 |    Bijkomend kosten| Verzendkosten en batterijlader   |                   |          |               |                 |7.70     |
