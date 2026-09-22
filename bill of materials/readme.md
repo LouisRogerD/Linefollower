@@ -14,5 +14,4 @@
 |         9|Soldeerbord                   |PCB Board Prototype Kit                     |  nieuw   |0.32           |1     |0.32     |
 |        10|Kabels                        |Jumper wires, male to male en male to female|  recup   |1.40           |1     |1.40     |
 |    Totaal|                              |                                            |          |               |      |         |
-Verzendkosten: 3.72
-Batterijlader: 3.99
+|    Bijkomend kosten| Verzendkosten en batterijlader   |                   |          |               |                 |7.70     |
