@@ -9,9 +9,9 @@
 |         4|Wielen                        |Pololu Wheel 60×8mm Pair - Blue             |  recup   |1.10           |2     |2.20     |
 |         5|HC-05 Wireless Module         |RS232                                       |  nieuw   |3.44           |1     |3.44     |
 |         6|Arduino Leonardo              |atmega32u4                                  |  nieuw   |16.72          |1     |16.72    |
-|         7|Batterijen                    |EVE ICR18650-26VA 2650mAh - 13A             |  nieuw   |1.51           |2     |1.51     |
+|         7|Batterijen                    |EVE ICR18650-26VA 2650mAh - 13A             |  recup   |1.51           |2     |1.51     |
 |         8|Batterijhouder                |Batterijhouder met 2 pinnen                 |  nieuw   |2.32           |1     |2.32     |
 |         9|Soldeerbord                   |PCB Board Prototype Kit                     |  recup   |0.32           |1     |0.32     |
 |        10|Kabels                        |Jumper wires, male to male en male to female|  recup   |1.40           |1     |1.40     |
 |    Totaal|                              |                                            |          |               |      |45.4     |
-|    Bijkomend kosten| Verzendkosten en batterijlader   |                   |          |               |                 |26.2     |
+|    Bijkomend kosten| Verzendkosten en batterijlader   |                   |          |               |                 |19.2     |
