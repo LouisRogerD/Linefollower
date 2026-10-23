@@ -1,25 +1,22 @@
-Functional Description
+Functiebeschrijving
 
-The QTR-8A reflectance sensor array is intended as a line sensor, but it can be used as a general-purpose proximity or reflectance sensor. 
-The module is a convenient carrier for eight IR emitter and receiver (phototransistor) pairs evenly spaced at intervals of 0.375″ (9.525 mm). 
-Each phototransistor is connected to a pull-up resistor to form a voltage divider that produces an analog voltage output between 0 V and VIN (which is typically 5 V) as a function of the reflected IR.
-Lower output voltage is an indication of greater reflection.
+Het QTR-8A-reflectiesensorarray is bedoeld als lijnen sensor, maar kan ook worden gebruikt als een algemene nabijheids- of reflectiesensor.
+De module is een handige drager voor acht paren IR-emitters en -ontvangers (fototransistoren), gelijkmatig verdeeld met tussenafstanden van 0,375 inch (9,525 mm). 
+Elke fototransistor is verbonden met een pull-up weerstand om een spanningsdeler te vormen die een analoge uitgangsspanning produceert tussen 0 V en VIN (typisch 5 V), afhankelijk van de gereflecteerde IR-straling. Een lagere uitgangsspanning geeft aan dat er meer reflectie plaatsvindt.
 
-The outputs are all independent, but the LEDs are arranged in pairs to halve current consumption. 
-The LEDs are controlled by a MOSFET with a gate normally pulled high, allowing the LEDs to be turned off by setting the MOSFET gate to a low voltage. 
-Turning the LEDs off might be advantageous for limiting power consumption when the sensors are not in use or for varying the effective brightness of the LEDs through PWM control.
+De uitgangen zijn allemaal onafhankelijk, maar de LED’s zijn in paren gerangschikt om het stroomverbruik te halveren. 
+De LED’s worden aangestuurd door een MOSFET met een gate die normaal hoog wordt getrokken, waardoor de LED’s kunnen worden uitgeschakeld door de MOSFET-gate naar een lage spanning te zetten.
+Het uitschakelen van de LED’s kan handig zijn om het stroomverbruik te beperken wanneer de sensoren niet in gebruik zijn, of om de effectieve helderheid van de LED’s te variëren via PWM-besturing.
 
-The LED current-limiting resistors for 5 V operation are arranged in two stages; this allows a simple bypass of one stage to enable operation at 3.3 V.
-The LED current is approximately 20-25 mA, making the total board consumption just under 100 mA. 
-The schematic diagram of the module is shown below:
+De stroombegrenzende weerstanden voor de LED’s bij een voedingsspanning van 5 V zijn in twee stappen opgebouwd; hierdoor kan één stap eenvoudig worden omzeild om de module ook op 3,3 V te laten werken. De LED-stroom bedraagt ongeveer 20–25 mA, waardoor het totale stroomverbruik van de module iets onder de 100 mA blijft.
 
-Specifications
+Specificaties
 
-– Dimensions: 2.95″ x 0.5″ x 0.125″ (without header pins installed)
-– Operating voltage: 3.3-5.0 V
-– Supply current: 100 mA
-– Output format: 8 analog voltages
-– Output voltage range: 0 V to supplied voltage
-– Optimal sensing distance: 0.125″ (3 mm)
-– Maximum recommended sensing distance: 0.25″ (6 mm)
-– Weight without header pins: 0.11 oz (3.09 g)
+– Afmetingen: 2,95″ x 0,5″ x 0,125″ (zonder header-pinnen gemonteerd)
+– Werkspanning: 3,3–5,0 V
+– Stroomverbruik: 100 mA 
+– Uitvoerformaat: 8 analoge spanningen
+– Uitgangsspanningsbereik: 0 V tot de voedingsspanning
+– Optimale detectieafstand: 0,125″ (3 mm)
+– Maximale aanbevolen detectieafstand: 0,25″ (6 mm)
+– Gewicht zonder header-pinnen: 0,11 oz (3,09 g)
