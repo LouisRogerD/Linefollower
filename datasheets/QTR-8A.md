@@ -7,6 +7,7 @@ Elke fototransistor is verbonden met een pull-up weerstand om een spanningsdeler
 De uitgangen zijn allemaal onafhankelijk, maar de LED’s zijn in paren gerangschikt om het stroomverbruik te halveren. 
 De LED’s worden aangestuurd door een MOSFET met een gate die normaal hoog wordt getrokken, waardoor de LED’s kunnen worden uitgeschakeld door de MOSFET-gate naar een lage spanning te zetten.
 Het uitschakelen van de LED’s kan handig zijn om het stroomverbruik te beperken wanneer de sensoren niet in gebruik zijn, of om de effectieve helderheid van de LED’s te variëren via PWM-besturing.
+<img width="750" height="689" alt="image" src="https://github.com/user-attachments/assets/ef8b746f-6903-4808-9143-9786a4b3476a" />
 
 De stroombegrenzende weerstanden voor de LED’s bij een voedingsspanning van 5 V zijn in twee stappen opgebouwd; hierdoor kan één stap eenvoudig worden omzeild om de module ook op 3,3 V te laten werken. De LED-stroom bedraagt ongeveer 20–25 mA, waardoor het totale stroomverbruik van de module iets onder de 100 mA blijft.
 
