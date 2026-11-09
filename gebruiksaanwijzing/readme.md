@@ -24,7 +24,14 @@ calibrate white : Calibreer de witte waardes
 Er zijn 2 commando's voor de kalibratie waaronder één voor wit te kalibreren van de Linefollower en één voor zwart te kalibreren. Zet de robot op een schoon wit vlak en geef in de Serial Bluetooth Terminal het commando "calibrate white", om de kalibratie voor wit uit te voeren. Idem voor zwart maar op een zwart vlak en met het commando "calibrate black".
 
 ### settings
-De robot rijdt stabiel met volgende parameters: **Cycle time: 2500, Power: 200, diff: 0.48, kp: 14, ki: 0.03, kd: 0.25, dAlpha: 0.7**
+De robot rijdt stabiel met volgende parameters:
+Cycle time: 2500 
+Power: 200 
+Siff: 0.48
+Kp: 14
+Ki: 0.03
+Kd: 0.25
+Alpha: 0.7
 
 ### start/stop button
 Er is geen fysieke knop met een start/stop functie, dit wordt gedaan via de draadloze communicatie en een run on en run off commando. Ook zal de Linefollower stoppen als er geen duidelijke zwarte lijn aanwezig is
